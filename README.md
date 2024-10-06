@@ -1,4 +1,4 @@
-# Actividad 1 – Juego Drag and Drop Pokémon
+# Actividad 1 – Resolución de Ejercicios de Kotlin
 
 **Nombre del Estudiante:** Aldo Antonio Badillo Vega  
 **Matricula:** 2021009  
@@ -7,4 +7,4 @@
 **Nombre del Maestro:** Senen Aldahir Mayorga García  
 **Cuatrimestre:** Decimo Cuatrimestre  
 **Carrera:** Ingeniería en Desarrollo y Gestión de Software  
-**Materia:** Aplicaciones Web Progresivas  
+**Materia:** Desarrollo Móvil Integral  
